@@ -20,3 +20,5 @@ commited##3
 # Alteração paga TAG's
 # TAG 3.0 TESTE 1
 # TAG 3.0 TESTE 2
+# Versão final
+# Versão final
