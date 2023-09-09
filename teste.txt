@@ -18,3 +18,5 @@ commited##3
 # Linha nova teste stash
 # Linha nova teste stash
 # Alteração paga TAG's
+# TAG 3.0 TESTE 1
+# TAG 3.0 TESTE 2
