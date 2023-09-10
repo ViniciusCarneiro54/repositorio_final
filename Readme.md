@@ -1,5 +1,3 @@
-# ¡Tengo una petición para ti!
-
-Haga clic en la imagen de abajo:
+# JAJAJAJAJAJAJAJA
 
 [![Xbox](docs/R.png)](docs/index.html)
