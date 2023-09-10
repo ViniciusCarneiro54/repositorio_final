@@ -12,4 +12,4 @@
 [Resize image](https://gist.github.com/uupaa/f77d2bcf4dc7a294d109)
 
 ## Imagens com links!
-[![Xbox](https://assets.xboxservices.com/assets/38/57/38571581-4e99-4a91-82b5-5abeb4670304.svg?n=XGP_Page-Hero-Logo_768_326x108.svg)](https://www.xbox.com/pt-BR/xbox-game-pass)
+[![Xbox](https://assets.xboxservices.com/assets/e0/c6/e0c62576-15f9-4ec6-a2e1-8cd1445c30df.jpg?n=120045_Content-Placement-0_XGP-Ultimate_788x444.jpg)](https://www.xbox.com/pt-BR/xbox-game-pass)
