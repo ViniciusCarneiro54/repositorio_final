@@ -31,3 +31,9 @@ nascimento = 1998
 ![SQL Draw](docs/Hospital%20Projeto.png)
 
 Link: [https://dbdiagram.io/d/64fe1f7002bd1c4a5e4c3674](https://dbdiagram.io/d/64fe1f7002bd1c4a5e4c3674)
+
+### Serviços e recursos utilizados na nuvem
+| Serviço          | Funcionalidade                 |
+|------------------|--------------------------------|
+| AWS Glue Catalog | Para catalogar dados           |
+| AWS Glue Crawler | Ferramenta para rastrear dados |
