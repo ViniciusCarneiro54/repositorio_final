@@ -30,6 +30,4 @@ nascimento = 1998
 ### Database diagram Hospital Medland:
 ![SQL Draw](docs/Hospital%20Projeto.png)
 
-#### Feito no site dbdiagram.io
-##### Feito no site dbdiagram.io
-###### Feito no site dbdiagram.io
+Link: [https://dbdiagram.io/d/64fe1f7002bd1c4a5e4c3674](https://dbdiagram.io/d/64fe1f7002bd1c4a5e4c3674)
