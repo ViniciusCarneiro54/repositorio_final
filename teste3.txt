@@ -1,3 +1,0 @@
-# Mod 2
-## Adicionando mais linhas!
-## linha adicionada para testar git diff
