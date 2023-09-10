@@ -51,12 +51,6 @@ Link: [https://dbdiagram.io/d/64fe1f7002bd1c4a5e4c3674](https://dbdiagram.io/d/6
 
 ### Technologies:
 
-<style>
-  .div-container {
-    margin: 5px 0; /* Define a margem superior e inferior para 5 pixels */
-  }
-</style>
-
  <div>
   <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="SQL" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -69,6 +63,7 @@ Link: [https://dbdiagram.io/d/64fe1f7002bd1c4a5e4c3674](https://dbdiagram.io/d/6
 
 <div>
    <img align="center" alt="SQL" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+   <img align="center" alt="SQL" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/>
  <div><br/>
 
 Passionate about technology, i started my migration process to Data Engineering!
