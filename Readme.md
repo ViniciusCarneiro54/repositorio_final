@@ -10,3 +10,6 @@
 
 ## Links:
 [Resize image](https://gist.github.com/uupaa/f77d2bcf4dc7a294d109)
+
+## Imagens com links!
+![Xbox](https://assets.xboxservices.com/assets/38/57/38571581-4e99-4a91-82b5-5abeb4670304.svg?n=XGP_Page-Hero-Logo_768_326x108.svg)(https://www.xbox.com/pt-BR/xbox-game-pass)
