@@ -1,5 +1,15 @@
-# Haga clic en la foto abajo!!
+# Anotações gerais sobre GIT e GIT HUB!
 
-tengo una petición especial :)
+### Redimensionando imagem com link https:
+<img src="https://github.com/ViniciusCarneiro54/repositorio_final/blob/main/docs/BOCA10.jpg" width="400" height="400"/>
 
-[![Xbox](docs/R.png)](https://libs-py.s3.amazonaws.com/index.html)
+### Redimensionando imagem com link do git:
+<img src="docs/BOCA2.jpg" width="400" height="400"/>
+
+<img src="docs/BOCA4.jpg" width="350" height="350"/>
+
+## Links:
+[Resize image](https://gist.github.com/uupaa/f77d2bcf4dc7a294d109)
+
+## Imagens com links!
+[![Xbox](https://assets.xboxservices.com/assets/e0/c6/e0c62576-15f9-4ec6-a2e1-8cd1445c30df.jpg?n=120045_Content-Placement-0_XGP-Ultimate_788x444.jpg)](https://www.xbox.com/pt-BR/xbox-game-pass)
