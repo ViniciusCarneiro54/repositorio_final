@@ -7,3 +7,6 @@
 <img src="docs/BOCA2.jpg" width="400" height="400"/>
 
 <img src="docs/BOCA4.jpg" width="350" height="350"/>
+
+## Links:
+[Resize image](https://gist.github.com/uupaa/f77d2bcf4dc7a294d109)
