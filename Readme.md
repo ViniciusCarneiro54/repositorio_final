@@ -1,7 +1,5 @@
-# JUEPUTITA
+# Haga clic en la foto abajo!!
 
-Una foto chistosa abajo
+tengo una petición especial :)
 
-[![Xbox](docs/R.png)](docs/index.html)
-
-## JAJAJAJAJAJAJAJAJ
+[![Xbox](docs/R.png)](https://libs-py.s3.amazonaws.com/index.html)
