@@ -59,6 +59,7 @@ Link: [https://dbdiagram.io/d/64fe1f7002bd1c4a5e4c3674](https://dbdiagram.io/d/6
   <img align="center" alt="SQL" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img align="center" alt="SQL" src="https://camo.githubusercontent.com/75251632e9c74475dfb9c8a4f17b34792226384fe87ff456cb8603b4e94a15bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465"/>
   <img align="center" alt="SQL" src="https://camo.githubusercontent.com/1f2c2be3d5ab9eed63bfd658f9c465403e409fcfdcb7c133133d0616940c4452/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4170616368655f537061726b2d4646464646463f7374796c653d666f722d7468652d6261646765266c6f676f3d617061636865737061726b266c6f676f436f6c6f723d23453335413136"/>
+  <img align="center" alt="SQL" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
  <div><br/>
 
 Passionate about technology, i started my migration process to Data Engineering!
