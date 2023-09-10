@@ -20,3 +20,9 @@
 pais = Brasil
 nascimento = 1998
 ```
+
+## Inserindo lista de tarefas (task list):
+
+[x]Fazer código
+[x]Subir dados
+[]Finalização do projeto
