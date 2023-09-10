@@ -25,4 +25,4 @@ nascimento = 1998
 
 - [x] Fazer código
 - [x] Subir dados
-- [] Finalização do projeto
+- [ ] Finalização do projeto
