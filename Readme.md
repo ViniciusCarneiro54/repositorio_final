@@ -5,3 +5,5 @@
 
 ### Redimensionando imagem com link do git:
 <img src="docs/BOCA2.jpg" width="400" height="400"/>
+
+<img src="docs/BOCA4.jpg" width="350" height="350"/>
