@@ -1,17 +1,6 @@
-# TE AMO CARAJITO
+# JUEPUTITA
 
-⇓
-
-⇓
-
-⇓
-
-⇓
-
-⇓
-
-
-
+Una foto chistosa abajo
 
 [![Xbox](docs/R.png)](docs/index.html)
 
