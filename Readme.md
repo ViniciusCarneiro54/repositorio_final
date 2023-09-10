@@ -13,3 +13,10 @@
 
 ## Imagens com links!
 [![Xbox](https://assets.xboxservices.com/assets/e0/c6/e0c62576-15f9-4ec6-a2e1-8cd1445c30df.jpg?n=120045_Content-Placement-0_XGP-Ultimate_788x444.jpg)](https://www.xbox.com/pt-BR/xbox-game-pass)
+
+## Inserindo código fonte:
+
+```python
+pais = Brasil
+nascimento = 1998
+```
