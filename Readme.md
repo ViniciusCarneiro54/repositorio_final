@@ -10,4 +10,4 @@ Esse projeto surgiu da minha necessidade de por em prática conteúdos estudados
 
 Depois de finalizando o modelo físico esse foi o resultado:
 
-![Diagrama do banco de dados][img/diagram.png]
+![Diagrama do banco de dados](img/diagram.png)
