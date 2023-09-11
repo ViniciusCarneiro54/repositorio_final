@@ -11,3 +11,5 @@ Esse projeto surgiu da minha necessidade de por em prática conteúdos estudados
 Depois de finalizando o modelo físico esse foi o resultado:
 
 ![Diagrama do banco de dados](img/diagram.png)
+<img src="img/diagram.png" width="500" height="500"/>
+<img src="img/diagram.png" width="400" height="400"/>
