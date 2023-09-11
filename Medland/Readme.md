@@ -10,4 +10,4 @@ Esse projeto surgiu da minha necessidade de por em prática conteúdos estudados
 
 Depois de finalizando o modelo físico esse foi o resultado:
 
-![Diagrama do banco de dados][docs/Hospital%20Projeto.png]
+![Diagrama do banco de dados][1_Primeiro_Repo/docs/Hospital%20Projeto.png]
