@@ -44,7 +44,7 @@ Informações detalhadas das consultas já realizadas em todas unidades.
 
 ### Tabela "MEDICOS"
 
-Registro dos médicos ativos ou intativos na instituição.
+Registro dos médicos ativos ou inativos na instituição.
 | Coluna        | Descrição                                  |
 | ------------- | ------------------------------------------ |
 | Nome          | Nome completo do médico.                   |
