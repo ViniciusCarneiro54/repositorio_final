@@ -1,6 +1,7 @@
 # Catálogo de dados
 
 ## Tabela "PACIENTES"
+
 Registro de todos pacientes que já consultaram alguma vez na instituição. 
 
 | Coluna          | Descrição                                            |
@@ -30,6 +31,7 @@ Registro de todos pacientes que já consultaram alguma vez na instituição.
 | Cor             | Tag gerada aleatoriamente pelo sistema.              |
 
 ### Tabela "CONSULTAS"
+
 Informações detalhadas das consultas já realizadas em todas unidades.
 | Coluna      | Descrição                                                       |
 | ----------- | --------------------------------------------------------------- |
@@ -41,6 +43,7 @@ Informações detalhadas das consultas já realizadas em todas unidades.
 | Diagnostico | Diagnostico padrão preenchido pelo médico ao final da consulta. |
 
 ### Tabela "MEDICOS"
+
 Registro dos médicos ativos ou intativos na instituição.
 | Coluna        | Descrição                                  |
 | ------------- | ------------------------------------------ |
@@ -51,6 +54,7 @@ Registro dos médicos ativos ou intativos na instituição.
 | Telefone      | Número de telefone particular do médico.   |
 
 ## Tabela "INTERNACOES"
+
 Registro das internações já registradas.
 | Coluna      | Descrição                                       |
 | ----------- | ----------------------------------------------- |
@@ -60,4 +64,17 @@ Registro das internações já registradas.
 | Saida       | Datetime registrado na saída do paciente.       |
 
 ## Tabela "HOSPITAL"
+
 Informações cadastrais referente a unidade hospitalar.
+
+| Coluna      | Descrição                              |
+| ----------- | -------------------------------------- |
+| ID_Hospital | ID único da unidade hospitalar.        |
+| Nome        | Nome oficial.                          |
+| Descrição   | Alcunha da unidade.                    |
+| Telefone    | Telefone fixo da unidade.              |
+| Endereço    | Endereço onde está situado o hospital. |
+| CEP         | CEP do hospital.                       |
+| Cidade      | Cidade onde está localizado.           |
+| Estado      | Estado onde está localizado.           |
+| CNPJ        | Número de CNPJ com pontuação padrão.   |
