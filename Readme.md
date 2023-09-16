@@ -8,8 +8,8 @@ Esse projeto surgiu da minha necessidade de por em prática conteúdos estudados
 
 * **Modelo físico** - Agora sim temos que definir uma tecnologia para implementar o que foi decidido no modelo lógico, ela é a representação física de tudo que foi definido antes. É importante escolher um banco de dados que se adapte e suporte as necessidades do negócio, levando em consideração os detalhes técnicos e de desempenho. E nosso caso especifico, decidimos por utilizar o SGBD MySQL!
 
-Depois de finalizando o modelo físico esse foi o resultado, o catálogo dos dados pode ser visto [aqui](https://github.com/ViniciusCarneiro54/repositorio_final/tree/main/catalogo). Os notebooks contendo todos os códigos estão no repositório [notebooks](https://github.com/ViniciusCarneiro54/repositorio_final/tree/main/notebooks).
-
+Depois de finalizando o modelo físico esse foi o resultado, o catálogo dos dados pode ser visto [aqui](https://github.com/ViniciusCarneiro54/repositorio_final/tree/main/catalogo). Os notebooks contendo os códigos estão no repositório [notebooks](https://github.com/ViniciusCarneiro54/repositorio_final/tree/main/notebooks), as querys realizadas estão no [sql]()
+ 
 ![Diagrama do banco de dados](img/diagram.png)
 
 ## Pré-requisitos para execução desse projeto

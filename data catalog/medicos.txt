@@ -1,0 +1,14 @@
+Relação de médicos cadastrados no sistema Medland!
+
+nome, sexo, especialidade, crm, telefone
+
+Anthony Alex de Castro, M, Cardiologista, CRM/MG 568956, (31)99129-6532
+Gabriely Santos Mizoni, F, Geral, CRM/SP 985236, (31)99156-2798
+Alex Freire, M, Dermatologista, CRM/MG 589126, (31)98991-2023
+Cristina Cardeal Ramos, F, Geral, CRM/RJ 236159, (21)99130-2710
+Guilherme Cherpak, M, Ortopedista, CRM/SP 235154, (11)98734-7880 
+Pedro Diniz Kimura, M, Otorrino, CRM/ES 354065, (27)99542-7746
+Julia Torritani Dias, F, Geral, CRM/MG 985163, (31)98836-0932
+Adriana Coelho Lamberti, F, Cardiologista, CRM/MG 542148, (31)99854-8699
+Roberto Furst Macedo, M, Geral, CRM/MG 124786, (31)98975-5088
+Ana Carolina Giotto, F, Oftalmologia, CRM/SP 269148, (11)98723-7341
