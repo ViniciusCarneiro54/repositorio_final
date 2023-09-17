@@ -43,7 +43,7 @@ project
 - Conta AWS
 
 ## Estrutura na AWS para processamento das tabelas (pacientes e consultas)
-![(img/AWS.drawio.png)]
+![awsdiagram](img/AWS.drawio.png)
 
 ## Descrição dos serviços utilizados na nuvem
 
