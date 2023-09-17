@@ -12,6 +12,30 @@ Depois de finalizando o modelo físico esse foi o resultado, o catálogo dos dad
  
 ![Diagrama do banco de dados](img/diagram.png)
 
+## Estruturas de Pastas do Projeto
+
+```
+project
+|   Readme.md
+└───data-catalog
+|   |   consultas.csv
+|   |   medicos.txt
+|   |   pacientes_f.json
+|   |   pacientes_m.json
+|   |   pacientes_m.json
+|   |   ...
+└───data-catalog
+|   |   diagram.png
+|   |   aws-diagram.png
+└───querys-sql
+|   |   query.sql
+|   |   Readme.md
+└───src
+|   |   lambda-ingestao.ipynb
+|   |   JOB-1.ipynb
+|   |   JOB-2.ipynb
+```
+
 ## Pré-requisitos para execução desse projeto
 
 - Python + libs (boto3, Pandas)
@@ -29,5 +53,3 @@ Depois de finalizando o modelo físico esse foi o resultado, o catálogo dos dad
 | Glue Job     | É um conjunto de instruções ETL que se conecta a dados de origem, processa-os e os grava em um destino de dados. Eles podem ser escritos em Python ou Scala e agendados para execução periódica ou desencadeados por eventos, como a chegada de novos dados. |
 | CodeCommit   | Serviço de hospedagem de repositório de controle de versão, solução poderosa para gerenciamento de versão e colaboração no desenvolvimento.                                                                                                                  |
 | Budgets      | Permite a definição de orçamentos com níveis diários, mensais e anuais. Também é possível configurar alertas de acordo com uma margem definida e verificar relatórios.                                                                                       |
-
-Adicionar > BUDGET - AWS CALCULATOR
