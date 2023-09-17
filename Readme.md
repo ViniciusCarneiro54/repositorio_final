@@ -34,7 +34,7 @@ project
 └───src
 |   |   1 - Medland.ipynb
 |   |   JOB-1.ipynb
-|   |   JOB-2.ipynb
+|   |   ...
 ```
 
 ## Pré-requisitos para execução desse projeto
