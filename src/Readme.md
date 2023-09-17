@@ -4,8 +4,6 @@ Neste repositório estão os três arquivos .ipynb utilizados nesse projeto, sen
 
 1. **ProjetoMedland** - Aqui estão os códigos para configurar o ambiente na nuvem (criar buckets s3, subir instância do RDS MySQL e criar o banco de dados, fazer upload dos arquivos, acionar JOB's e crawlers do Glue), também tratamos os dados das tabelas *'Hospitais'* , *'Médicos'* e *'Internações'* e esses são inseridos no banco via CRUD. Algumas bibliotecas utilizadas são: boto3, logging, mysql.connector, pandas, etc.
 
-2. **Job1** - Escrito em PySpark para tratar os dados das tabela _'Pacientes'_ e _'Consultas'_ e salvar-los em um bucket.
+2. **Job 1** - Escrito em PySpark para tratar os dados das tabela _'Pacientes'_ e _'Consultas'_ e salvá-los em um bucket.
 
-3.  **Job2** - Segunda etapa no Glue para inserir os dados tratados no banco de dados.
-
-
+3.  **Job 2** - Segunda etapa no Glue para inserir os dados tratados no banco de dados.
