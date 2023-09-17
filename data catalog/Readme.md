@@ -1,6 +1,8 @@
 # Catálogo de dados
 
-## Tabela "PACIENTES"
+Você pode baixar os dados em um arquivo zipado [clicando aqui](https://drive.google.com/file/d/1SK9TbDIkT3rg5runs2jQJF1vlcjTdQ0J/view?usp=sharing).
+
+### Tabela "PACIENTES"
 
 Registro de todos pacientes que já consultaram alguma vez na instituição. 
 
