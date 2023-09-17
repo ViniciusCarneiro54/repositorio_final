@@ -1,6 +1,6 @@
 ## Introdução
 
-Esse projeto surgiu da minha necessidade de por em prática conteúdos estudados ao longo do tempo como SQL, Python, Cloud (AWS), PySpark e tipos de arquivos (JSON, CSV, Parquet). Nele eu simulei a criação de um banco de dados transacional para uma empresa pequena empresa de saúde que conta com dois hospitais de médio porte na capital mineira Belo Horizonte. Abaixo segue uma descrição das três etapas da modelagem de dados seguidas nesse projeto.
+Esse projeto surgiu da minha necessidade de por em prática conteúdos estudados ao longo do tempo como SQL, Python, Cloud (AWS), PySpark e tipos de arquivos (JSON, CSV, Parquet). Nele eu simulei a criação de um banco de dados transacional para uma pequena empresa de saúde que conta com dois hospitais de médio porte na capital mineira Belo Horizonte. Abaixo segue uma descrição das três etapas da modelagem de dados seguidas nesse projeto:
 
 * **Modelo conceitual** - Aqui é onde nasce tudo, o responsável pela modelagem e implantação deve estar em contato contínuo com o usuário final e ou área de negócio, apurando como se dá o surgimento dos dados e quais as regras de negócio ali aplicadas, os processos e as necessidades, ou seja, basicamente aprender como funcionam as coisas ali naquela organização. Todas as demandas e regras aplicadas devem ser documentadas para utilização posterior, é de suma importância ouvir todos que fazem parte da rotina operacional, e quanto mais informação melhor! E lembre-se sua principal finalidade é capturar os requisitos de informação e regras de negócio sob o ponto de vista do negócio, nada de falar de tecnologia ainda!
 
@@ -8,7 +8,7 @@ Esse projeto surgiu da minha necessidade de por em prática conteúdos estudados
 
 * **Modelo físico** - Agora sim temos que definir uma tecnologia para implementar o que foi decidido no modelo lógico, ela é a representação física de tudo que foi definido antes. É importante escolher um banco de dados que se adapte e suporte as necessidades do negócio, levando em consideração os detalhes técnicos e de desempenho. E nosso caso especifico, decidimos por utilizar o SGBD MySQL!
 
-Depois de finalizando o modelo físico esse foi o resultado, o catálogo dos dados pode ser visto [aqui](https://github.com/ViniciusCarneiro54/repositorio_final/tree/main/catalogo). Os notebooks contendo os códigos estão no repositório [notebooks](https://github.com/ViniciusCarneiro54/repositorio_final/tree/main/notebooks), as querys realizadas estão no [sql]()
+Depois de finalizando o modelo físico esse foi o resultado, o catálogo dos dados pode ser visto [aqui](https://github.com/ViniciusCarneiro54/repositorio_final/tree/main/catalogo). Os notebooks contendo os códigos estão no repositório [notebooks](https://github.com/ViniciusCarneiro54/repositorio_final/tree/main/notebooks), as querys realizadas estão no [sql](https://github.com/ViniciusCarneiro54/repositorio_final/tree/main/notebooks).
  
 ![Diagrama do banco de dados](img/diagram.png)
 
