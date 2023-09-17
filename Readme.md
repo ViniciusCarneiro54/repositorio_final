@@ -12,7 +12,7 @@ Depois de finalizando o modelo físico esse foi o resultado, o catálogo dos dad
  
 ![Diagrama do banco de dados](img/diagram.png)
 
-## Estruturas de Pastas do Projeto
+## Estruturas de pastas do repositório
 
 ```
 project
