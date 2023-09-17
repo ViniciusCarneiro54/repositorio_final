@@ -28,7 +28,7 @@ project
 |   |   AWS.drawio.png
 |   |   DBeaver.png
 |   |   ...
-└───querys-sql
+└───queries-sql
 |   |   query.sql
 |   |   Readme.md
 └───src
