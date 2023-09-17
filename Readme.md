@@ -45,6 +45,8 @@ project
 ## Estrutura na AWS para processamento das tabelas (pacientes e consultas)
 ![awsdiagram](img/AWS.drawio.png)
 
+<img src="https://github.com/ViniciusCarneiro54/repositorio_final/blob/main/img/AWS.drawio.png" width="900" height="602" />
+
 ## Descrição dos serviços utilizados na nuvem
 
 | Serviço      | Descrição                                                                                                                                                                                                                                                    |
