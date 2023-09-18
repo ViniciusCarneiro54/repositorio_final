@@ -94,7 +94,7 @@ LEFT JOIN PACIENTES AS P ON C.ID_PACIENTE = P.ID_PACIENTE
 GROUP BY DIAS_INTERNADOS
 ORDER BY DIAS_INTERNADOS;
 ```
-8. Update de dados usando transação.
+8. Update de dados usando transação (Utilizar com cautela para não causar locks em tabelas e parar recursos do banco de dados).
 
 ```sql
 # Select com where para visualizar o que queremos alterar:
