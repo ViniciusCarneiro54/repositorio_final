@@ -94,9 +94,27 @@ LEFT JOIN PACIENTES AS P ON C.ID_PACIENTE = P.ID_PACIENTE
 GROUP BY DIAS_INTERNADOS
 ORDER BY DIAS_INTERNADOS;
 ```
-8.
+8. Update de dados usando transação.
 
 ```sql
+# Select com where para visualizar o que queremos alterar:
+SELECT * FROM PACIENTES
+WHERE ID_PACIENTE = 54;
+
+# Iniciando transação (MySQL vem com autocommit ligado):
+START TRANSACTION;
+
+# Setando colunas para mudar
+UPDATE PACIENTES
+SET TELEFONE = '(31)99153-5645', EMAIL = 'heitor@hotmail.com'
+WHERE ID_PACIENTE = 54;
+
+# Visualizando alteração:
+SELECT * FROM PACIENTES
+WHERE ID_PACIENTE = 54;
+
+# Operação bem sucedida, confirmar com commit:
+COMMIT;
 ```
 9.
 
