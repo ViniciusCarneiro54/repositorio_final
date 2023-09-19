@@ -116,11 +116,21 @@ WHERE ID_PACIENTE = 54;
 # Operação bem sucedida, confirmar com commit:
 COMMIT;
 ```
-9.
+9. Criando view dos pacientes que fazem aniversário no mês atual (Ações de marketing como enviar e-mail para aniversariante, descontos, etc.)
 
 ```sql
+# Criando a view:
+CREATE VIEW ANIVERSARIOS AS
+SELECT DAY(NASCIMENTO) AS DIA_ANIVERSARIO, NOME, TELEFONE, EMAIL, CIDADE, ESTADO 
+FROM PACIENTES
+WHERE MONTH(NASCIMENTO) = MONTH(CURDATE())
+ORDER BY DIA_ANIVERSARIO;
+
+# Consultando view:
+SELECT * FROM ANIVERSARIOS;
 ```
-10.
+10. 
 
 ```sql
+
 ```
