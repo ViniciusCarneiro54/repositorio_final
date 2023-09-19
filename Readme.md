@@ -8,7 +8,7 @@ Esse projeto surgiu da minha necessidade de por em prática conteúdos estudados
 
 * **Modelo físico** - Agora sim temos que definir uma tecnologia para implementar o que foi decidido no modelo lógico, ela é a representação física de tudo que foi definido antes. É importante escolher um banco de dados que se adapte e suporte as necessidades do negócio, levando em consideração os detalhes técnicos e de desempenho. E nosso caso especifico, decidimos por utilizar o SGBD MySQL!
 
-Depois de finalizando o modelo físico esse foi o resultado, o catálogo dos dados pode ser visto [aqui](https://github.com/ViniciusCarneiro54/repositorio_final/tree/main/data-catalog). Os notebooks contendo os códigos estão no repositório ['notebooks'](https://github.com/ViniciusCarneiro54/repositorio_final/tree/main/src) algumas tabelas foram tratadas com Python e inseridas via CRUD, as duas maiores são tratadas na AWS. As queries SQL realizadas estão armazenadas no ['queries-sql'](https://github.com/ViniciusCarneiro54/repositorio_final/tree/main/queries-sql).
+Depois de finalizando o modelo físico esse foi o resultado, o catálogo dos dados pode ser visto [aqui](https://github.com/ViniciusFCarneiro/Medland_Project/tree/main/data-catalog). Os notebooks contendo os códigos estão no repositório ['notebooks'](https://github.com/ViniciusFCarneiro/Medland_Project/tree/main/src) algumas tabelas foram tratadas com Python e inseridas via CRUD, as duas maiores são tratadas na AWS. As queries SQL realizadas estão armazenadas no ['queries-sql'](https://github.com/ViniciusFCarneiro/Medland_Project/tree/main/queries-sql).
  
 ![Diagrama do banco de dados](img/diagram.png)
 
@@ -45,7 +45,7 @@ project
 
 ## Estrutura na AWS para processamento das tabelas (pacientes e consultas)
 
-<img src="https://github.com/ViniciusCarneiro54/repositorio_final/blob/main/img/AWS.drawio.png" width="800" height="535" />
+<img src="https://github.com/ViniciusFCarneiro/Medland_Project/blob/main/img/AWS.drawio.png" width="800" height="535" />
 
 ## Descrição dos serviços utilizados na nuvem
 

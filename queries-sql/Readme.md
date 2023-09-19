@@ -4,4 +4,4 @@ Depois do banco criado e os dados devidamente inseridos, fiz algumas querys que 
 
 _Observação: A conexão com o banco é permitida somente pelo meu endereço IP, e o mesmo será excluido após finalização do projeto._
 
-<img src="https://github.com/ViniciusCarneiro54/repositorio_final/blob/main/img/DBeaver.png" width="610" height="555" />
+<img src="https://github.com/ViniciusFCarneiro/Medland_Project/blob/main/img/DBeaver.png" width="610" height="555" />
