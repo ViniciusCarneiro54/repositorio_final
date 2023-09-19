@@ -41,7 +41,7 @@ HAVING TP_SANGUE = 'O-' AND IDADE < 35
 ORDER BY IDADE;
 ```
 
-4. Pacientes com idade maior que 30 que ficaram internados mais de 5 dias:
+5. Pacientes com idade maior que 30 que ficaram internados mais de 5 dias:
 
 ```sql
 SELECT I.ID_INTERNACAO, I.ENTRADA, C.ID_CONSULTA, C.DIAGNOSTICO, P.NOME, 
@@ -54,7 +54,7 @@ HAVING DIAS_INTERNADOS > 5 AND IDADE > 30
 ORDER BY DIAS_INTERNADOS DESC, IDADE DESC;
 ```
 
-5. Quantidade de consultas de acordo com risco:
+6. Quantidade de consultas de acordo com risco:
 
 ```sql
 SELECT 
@@ -72,7 +72,7 @@ GROUP BY RISCO
 ORDER BY QTD_CONSULTAS;
 ```
 
-6. Quantidade de consultas realizadas por cada médico:
+7. Quantidade de consultas realizadas por cada médico:
 
 ```sql
 SELECT C.ID_MEDICO, M.NOME, M.ESPECIALIDADE, COUNT(*) AS QTD_CONSULTAS
@@ -82,7 +82,7 @@ GROUP BY C.ID_MEDICO
 ORDER BY QTD_CONSULTAS DESC;
 ```
 
-7. Média de idade dos pacientes de acordo com quantidade de dias internados:
+8. Média de idade dos pacientes de acordo com quantidade de dias internados:
 
 ```sql
 SELECT
@@ -94,7 +94,7 @@ LEFT JOIN PACIENTES AS P ON C.ID_PACIENTE = P.ID_PACIENTE
 GROUP BY DIAS_INTERNADOS
 ORDER BY DIAS_INTERNADOS;
 ```
-8. Update de dados usando transação (Utilizar com cautela para não causar locks em tabelas e parar recursos do banco de dados).
+9. Update de dados usando transação (Utilizar com cautela para não causar locks em tabelas e parar recursos do banco de dados).
 
 ```sql
 # Select com where para visualizar o que queremos alterar:
@@ -116,7 +116,7 @@ WHERE ID_PACIENTE = 54;
 # Operação bem sucedida, confirmar com commit:
 COMMIT;
 ```
-9. Criando view dos pacientes que fazem aniversário no mês atual (Ações de marketing como enviar e-mail para aniversariante, descontos, etc.)
+10. Criando view dos pacientes que fazem aniversário no mês atual (Ações de marketing como enviar e-mail para aniversariante, descontos, etc.)
 
 ```sql
 # Criando a view:
@@ -128,9 +128,3 @@ ORDER BY DIA_ANIVERSARIO;
 
 # Consultando view:
 SELECT * FROM ANIVERSARIOS;
-```
-10. 
-
-```sql
-
-```
